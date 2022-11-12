@@ -8,6 +8,7 @@
 #SOLARPUNK LAB
 official git / repo
 
+<br />
 <img src="images/solarFern.png" alt="Logo" width = 200>
 <br />
 

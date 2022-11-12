@@ -4,11 +4,13 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
 #SOLARPUNK LAB
-<img src="images/solarFern.png" alt="Logo" width = 200>
-<br /><br />
 official git / repo
+
+<img src="images/solarFern.png" alt="Logo" width = 200>
+<br />
+
 </div>
 
 <br />

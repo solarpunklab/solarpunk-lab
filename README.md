@@ -1,14 +1,12 @@
-<!-- # solarpunk lab --> 
-<a name="readme-top"></a>
-
 #SOLARPUNK LAB
 
-<!-- PROJECT LOGO -->
 
+<a name="readme-top"></a>
+<!-- PROJECT LOGO -->
 <div align="left">
 official git / repo
 <br />
-<img src="images/solarFern.png" alt="Logo" width = 200>
+<img src="images/solarFern.png" alt="Logo" width = 300>
 <br />
 
 </div>
@@ -91,7 +89,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 
 
 ## 3D STL MODELS
-<p align="3D" id="diy">
+<p align="justify" id="3D">
 <br>
 <ul>
 <li> BOKASHI  </li>

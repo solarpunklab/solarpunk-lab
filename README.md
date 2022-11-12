@@ -1,13 +1,11 @@
 <!-- # solarpunk lab --> 
 <a name="readme-top"></a>
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="left">
 #SOLARPUNK LAB
-
 official git / repo
+<!-- PROJECT LOGO -->
+
+<div align="left">
 
 <br />
 <img src="images/solarFern.png" alt="Logo" width = 200>

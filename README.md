@@ -29,7 +29,7 @@ official git / repo
 <br />
 
 <hr>
- <img src="images/SPL-BANNER-BEST.png" alt="Logo" width = 90%>
+ <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 90%>
 
 <hr>
 
@@ -103,10 +103,10 @@ Solar (UV-C) Bleaching
 <br>
 
 
-<img src="images/splat-anim-1.gif"  width = 440>
+<img src="images/splat-anim-1.gif"  width = 25%
 <br>
-
-<img src="images/sm-circuit.png"  width = 440>
+<img src="images/transp.png"  width = 15%>
+<img src="images/sm-circuit.png"  width = 50%>
 <br>
 
 

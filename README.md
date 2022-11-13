@@ -86,10 +86,10 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <table width = 90% >
 <tr>
 <td align = "center" width = 50% >
-<img src="images/splat-mini.png" width = 100%>
-<br>Solarpunk Lab Aeroponics Tower 
+<a href="splat/splat.md"><img src="images/splat-mini.png" width = 100%>
+<br>Solarpunk Lab Aeroponics Tower </a>
 <td align = "center" width = 50% >
-<a herf="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 100%>
+<a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 100%>
 <br>SolarPunkBots</A>
 <tr>
 <td align = "center" width = 50% >
@@ -100,11 +100,14 @@ BOKASHI - Home composting / DIY fertilizer
 Solar (UV-C) Bleaching
 </tr>
 </table>
+<br>
 
 
+<img src="images/splat-anim-1.gif"  width = 440>
+<br>
 
-<img src="images/sm-circuit.png" alt="Logo" width = 440>
-
+<img src="images/sm-circuit.png"  width = 440>
+<br>
 
 
 <p align="right" >[ <a href="#readme-top"> back</a> ]</p>

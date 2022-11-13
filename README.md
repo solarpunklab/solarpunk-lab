@@ -110,12 +110,15 @@ Solar (UV-C) Bleaching
 <br>
 
 
-| --- | --- |
-| <img src="images/splat-anim-1.gif" width = 100%>| <img src="images/spb.png"  width = 100% align="top"> |
-
-
-
-
+<table width = 90%  BORDERCOLOR=black>
+<tr>
+<td align = "center" width = 50% >
+<img src="images/splat-anim-1.gif" width = 100%>
+<td align = "center" width = 50% >
+<img src="images/spb.png"  width = 100% align="top">
+</tr>
+</table>
+<br>
 
 
 <br>

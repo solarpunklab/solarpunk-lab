@@ -54,22 +54,24 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <tr>
 <td align = "center">
 <img src="images/SDL-BKK.jpg" width = 100%>
-<br> Solarpunk Design Lab / Bangkok
+<br> Solarpunk Design Lab 
 <td align = "center">
 <img src="images/spl-energyshow.png" width = 100%>
-<br> SPL @ "The Energy Show" / Rotterdam
-<tr>
+<br> SPL @ "The Energy Show" 
 
+<!--
+<tr>
 <td align = "center" colspan = 2>
-CICCIO!
+TEST!
+-->
 
 <tr>
 <td align = "center">
 <img src="images/spl-rotterdam.png" width = 100%>
-<br> SolarPunkBots / HNI / Rotterdam
+<br> SolarPunkBots / HNI 
 <td align = "center">
 <img src="images/spl-warmingup.png" width = 100%>
-<br> SPL @ "Warming Up" / Amsterdam
+<br> SPL @ "Warming Up" 
 
 
 </tr>

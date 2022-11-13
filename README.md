@@ -66,7 +66,7 @@ CICCIO!
 <tr>
 <td align = "center">
 <img src="images/spl-rotterdam.png" width = 100%>
-<br> 'SolarPunkBots / HNI / Rotterdam'
+<br> SolarPunkBots / HNI / Rotterdam
 <td align = "center">
 <img src="images/spl-warmingup.png" width = 100%>
 <br> SPL @ "Warming Up" / Amsterdam
@@ -75,10 +75,7 @@ CICCIO!
 </tr>
 </table>
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+
 
 
 <!-------  BACK   --------->
@@ -112,10 +109,14 @@ Solar (UV-C) Bleaching
 </table>
 <br>
 
+| Command | Description |
+| --- | --- |
+| <img src="images/splat-anim-1.gif" width = 30%>| <img src="images/spb.png"  width = 40% align="top"> |
 
-<img src="images/splat-anim-1.gif" width = 30%>
 
-<img src="images/spb.png"  width = 40% align="top">
+
+
+
 
 <br>
 

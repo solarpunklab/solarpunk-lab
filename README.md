@@ -59,6 +59,11 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <img src="images/spl-energyshow.png" width = 100%>
 <br> SPL @ "The Energy Show" / Rotterdam
 <tr>
+
+<td align = "center" colspan = 2>
+CICCIO!
+
+<tr>
 <td align = "center">
 <img src="images/spl-rotterdam.png" width = 100%>
 <br> SolarPunkBots / HNI / Rotterdam
@@ -69,6 +74,11 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 
 </tr>
 </table>
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 
 <!-------  BACK   --------->
@@ -94,7 +104,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <tr>
 <td align = "center" width = 50% >
 <img src="images/bokashi-mini.png" width = 100%>
-DIY BOKASHI - Home composting / fertilizer
+DIY BOKASHI - Home composting 
 <td align = "center" width = 50% >
 <img src="images/bleaching-mini.png"  width = 100%>
 Solar (UV-C) Bleaching

@@ -103,7 +103,7 @@ Solar (UV-C) Bleaching
 <br>
 
 
-<img src="images/splat-anim-1.gif" width = 25%>
+<img src="images/splat-anim-1.gif" width = 40%>
 
 <img src="images/sm-circuit.png"  width = 40%>
 

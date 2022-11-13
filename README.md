@@ -66,7 +66,7 @@ CICCIO!
 <tr>
 <td align = "center">
 <img src="images/spl-rotterdam.png" width = 100%>
-<br> SolarPunkBots / HNI / Rotterdam
+<br> 'SolarPunkBots / HNI / Rotterdam'
 <td align = "center">
 <img src="images/spl-warmingup.png" width = 100%>
 <br> SPL @ "Warming Up" / Amsterdam

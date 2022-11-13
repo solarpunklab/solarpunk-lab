@@ -109,7 +109,7 @@ Solar (UV-C) Bleaching
 </table>
 <br>
 
-| Command | Description |
+
 | --- | --- |
 | <img src="images/splat-anim-1.gif" width = 100%>| <img src="images/spb.png"  width = 100% align="top"> |
 

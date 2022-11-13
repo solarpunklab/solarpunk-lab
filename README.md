@@ -81,7 +81,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <p align="justify" id="diy">
 <br>
 
-<img src="images/smgif.gif" width = 90%>
+<img src="images/smgif.gif" width = 100%>
 
 <table width = 90% >
 <tr>

@@ -81,7 +81,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <p align="justify" id="diy">
 <br>
 
-<img src="images/smgif.gif" width = 100%>
+
 
 <table width = 90% >
 <tr>
@@ -94,7 +94,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <tr>
 <td align = "center" width = 50% >
 <img src="images/bokashi-mini.png" width = 100%>
-BOKASHI - Home composting / DIY fertilizer
+DIY BOKASHI - Home composting / fertilizer
 <td align = "center" width = 50% >
 <img src="images/bleaching-mini.png"  width = 100%>
 Solar (UV-C) Bleaching
@@ -105,10 +105,14 @@ Solar (UV-C) Bleaching
 
 <img src="images/splat-anim-1.gif" width = 40%>
 
-<img src="images/sm-circuit.png"  width = 40%>
+<img src="images/transp.png" width = 10%>
+
+<img src="images/spb.png"  width = 40% align="top">
 
 <br>
-<img src="images/transp.png" width = 10%>
+
+
+<img src="images/smgif.gif" width = 100%>
 
 <p align="right" >[ <a href="#readme-top"> back</a> ]</p>
 

@@ -86,7 +86,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <table width = 90% >
 <tr>
 <td align = "center" width = 50% >
-<a href="splat/splat.md"><img src="images/splat-mini.png" width = 100%>
+<a href="SPLAT/splat.md"><img src="images/splat-mini.png" width = 100%>
 <br>Solarpunk Lab Aeroponics Tower </a>
 <td align = "center" width = 50% >
 <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 100%>

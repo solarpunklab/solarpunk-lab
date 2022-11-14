@@ -33,7 +33,7 @@ official git / repo
  
 <!------- TR -------->
 <tr>
-<td align = "center" width = 49%><img src="images/splat-anim-1.gif" width = 45%><td align = "center" width = 49%><img src="images/spl-mppt-animrot.gif"  width = 45% align="bottom">
+<td align = "center" width = 49%><img src="images/splat-anim-1.gif" width = 40%><td align = "center" width = 49%><img src="images/spl-mppt-animrot.gif"  width = 40% align="bottom">
 </tr>
 
 <br>

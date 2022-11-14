@@ -30,7 +30,7 @@ By using Bokashi, we can help to reduce the amount of food waste being sent to l
 
 
 
-We have designed a <a href = "../3D">3D-printed filter</a> that adapts to a most common 1Kg Yoghurt bucket to fully match our practical rec/rep philosophy (recycle/repurpose). The filter sits at the bottom of the bin so that the elements decomposed from the organic waste in the upper side can be dissolved in the water and collected via a small tap. 
+We have designed a <a href = "../3D/SPL-BOKASHI">3D-printed filter</a> that adapts to a most common 1Kg Yoghurt bucket to fully match our practical rec/rep philosophy (recycle/repurpose). The filter sits at the bottom of the bin so that the elements decomposed from the organic waste in the upper side can be dissolved in the water and collected via a small tap. 
 
 
 <!------- TR -------->

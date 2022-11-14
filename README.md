@@ -30,6 +30,18 @@ official git / repo
 
 <hr>
  <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 90%>
+ 
+ <br />
+ 
+ <table width = 90%  BORDERCOLOR=black>
+<tr>
+<td align = "center" width = 50% >
+<img src="images/splat-anim-1.gif" width = 100%>
+<td align = "center" width = 50% >
+<img src="images/spb.png"  width = 100% align="top">
+</tr>
+</table>
+<br>
 
 <hr>
 
@@ -53,11 +65,13 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <table width = 90% >
 <tr>
 <td align = "center">
+<a href="SDL/sdl.md">
 <img src="images/SDL-BKK.png" width = 100%>
-<br> Solarpunk Design Lab 
+<br> Solarpunk Design Lab </a>
 <td align = "center">
+<a href="TES/tes.md">
 <img src="images/spl-energyshow.png" width = 100%>
-<br> SPL @ "The Energy Show" 
+<br> SPL @ "The Energy Show" </a>
 
 <!--
 <tr>
@@ -67,11 +81,13 @@ TEST!
 
 <tr>
 <td align = "center">
+<a href="HNI/hni.md">
 <img src="images/spl-rotterdam.png" width = 100%>
-<br> SolarPunkBots / HNI 
+<br> SolarPunkBots / HNI </a>
 <td align = "center">
+<a href="WU/wu.md">
 <img src="images/spl-warmingup.png" width = 100%>
-<br> SPL @ "Warming Up" 
+<br> SPL @ "Warming Up" </a>
 
 
 </tr>
@@ -93,6 +109,7 @@ TEST!
 
 
 <table width = 90% >
+<! ------- TR -------->
 <tr>
 <td align = "center" width = 50% >
 <a href="SPLAT/splat.md"><img src="images/splat-mini.png" width = 100%>
@@ -100,27 +117,48 @@ TEST!
 <td align = "center" width = 50% >
 <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 100%>
 <br>SolarPunkBots</A>
+</tr>
+<! ------- TR -------->
 <tr>
 <td align = "center" width = 50% >
+<a href="BOKASHI/bokashi.md">
 <img src="images/bokashi-mini.png" width = 100%>
-DIY BOKASHI - Home composting 
+DIY BOKASHI - Home composting </a>
 <td align = "center" width = 50% >
+<a href="UVC/uvc.md">
 <img src="images/bleaching-mini.png"  width = 100%>
-Solar (UV-C) Bleaching
+Solar (UV-C) Bleaching</a>
 </tr>
-</table>
-<br>
-
-
-<table width = 90%  BORDERCOLOR=black>
+<! ------- TR -------->
 <tr>
 <td align = "center" width = 50% >
-<img src="images/splat-anim-1.gif" width = 100%>
+<a href="MPPT/mppt.md">
+<img src="images/spl-mppt-mini.png" width = 100%>
+MPPT monitoring </a>
 <td align = "center" width = 50% >
-<img src="images/spb.png"  width = 100% align="top">
+<a href="MFC/mfc.md">
+<img src="images/spl-mfc-mini.png"  width = 100%>
+Microbial Fuel Cell / Bioreactor</a>
 </tr>
+<! ------- TR -------->
+<tr>
+<td align = "center" width = 50% >
+<a href="GG/gg.md">
+<img src="images/spl-gg-mini.png" width = 100%>
+SPL Guerrilla Gardening </a>
+<td align = "center" width = 50% >
+
+<img src="images/emptysun.png"  width = 100%>
+- - -
+</tr>
+
+
+
 </table>
 <br>
+
+
+
 
 
 <br>

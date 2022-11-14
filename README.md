@@ -31,7 +31,7 @@ official git / repo
 <hr>
  
  
-<table width=90%>
+<table width=90% bordercolor=#000>
 <tr>
 <td align="center" colspan=2>
 <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 95%>

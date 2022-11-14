@@ -83,12 +83,12 @@ TEST!
 <tr>
 <td align = "center" width = 45% >
 <a href="HNI/hni.md">
-<img src="images/spl-rotterdam.png" width = 99%>
+<img src="images/spl-rotterdam.png" width = 90%>
 <br> SolarPunkBots / HNI </a>
 </td>
 <td align = "center" width = 45% >
 <a href="WU/wu.md">
-<img src="images/spl-warmingup.png" width = 99%>
+<img src="images/spl-warmingup.png" width = 90%>
 <br> SPL @ "Warming Up" </a>
 </td>
 

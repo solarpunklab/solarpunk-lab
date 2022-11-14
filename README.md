@@ -110,25 +110,25 @@ TEST!
 <p align="justify" id="diy">
 <br>
 
- <a href="SPLAT/splat.md"><img src="images/splat-miniX.png" width = 40%></a>
- <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 40%></a>
+ <a href="SPLAT/splat.md"><img src="images/splat-miniX.png" width = 45%></a>
+ <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 45%></a>
  
  <br>
  
- <a href="BOKASHI/bokashi.md"><img src="images/bokashi-miniX.png" width = 40%></a>
- <a href="UVC/uvc.md"><img src="images/bleaching-miniX.png" width = 40%></a>
+ <a href="BOKASHI/bokashi.md"><img src="images/bokashi-miniX.png" width = 45%></a>
+ <a href="UVC/uvc.md"><img src="images/bleaching-miniX.png" width = 45%></a>
  
  <br>
-  <a href="GG/gg.md"><img src="images/spl-gg-miniX.png" width = 40%><a>
- <a href="MFC/mfc.md"><img src="images/spl-mfc-miniX.png" width = 40%></a>
+  <a href="GG/gg.md"><img src="images/spl-gg-miniX.png" width = 45%><a>
+ <a href="MFC/mfc.md"><img src="images/spl-mfc-miniX.png" width = 45%></a>
  <br>
  
- <a href="MPPT/mppt.md"><img src="images/spl-mppt-miniX.png" width = 40%></a>
- <img src="images/emptysun.png" width = 40%> 
+ <a href="MPPT/mppt.md"><img src="images/spl-mppt-miniX.png" width = 45%></a>
+ <img src="images/emptysun.png" width = 45%> 
  <br>
 
 <hr>
-<img src="images/smgif.gif" width = 80%>
+<img src="images/smgif.gif" width = 90%>
 <hr>
 
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>

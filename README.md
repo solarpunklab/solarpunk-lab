@@ -110,9 +110,7 @@ TEST!
 <p align="justify" id="diy">
 <br>
 
-
  <a href="SPLAT/splat.md"><img src="images/splat-miniX.png" width = 40%></a>
-
  <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 40%></a>
  
  <br>
@@ -122,7 +120,6 @@ TEST!
  
  <br>
   <a href="GG/gg.md"><img src="images/spl-gg-miniX.png" width = 40%><a>
-
  <a href="MFC/mfc.md"><img src="images/spl-mfc-miniX.png" width = 40%></a>
  <br>
  

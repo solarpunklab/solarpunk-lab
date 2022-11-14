@@ -45,8 +45,7 @@ We have designed a <a href = "../3D/SPL-BOKASHI">3D-printed filter</a> that adap
 Literally ANY kind of home produced organic food waste can be added to the mix in the bin. The more diverse, the better. 
 <br><br>
 E.M. (Effective Microorganisms) should be added to the organic compost so to prevent harmful molds and bacteria to spread over the compost and release a nasty smell.
-<br>
-E.M. can be bought at organic farming shops at fair prices or (better) easily produced at home through rice fermentation process. We'll document this process soon too, meanwhile you can check <a href="https://www.hawaiihealingtree.org/how-to-make-your-own-em-1-inoculant-and-bokashi/" target="new">this tutorial for DIY'ing EM</a>.
+EMs can be bought at organic farming shops at fair prices or (better) easily produced at home through rice fermentation process. We'll document this process soon too, meanwhile you can check <a href="https://www.hawaiihealingtree.org/how-to-make-your-own-em-1-inoculant-and-bokashi/" target="new">this tutorial for DIY'ing EM</a>.
 
 <!------- TR -------->
 <tr>

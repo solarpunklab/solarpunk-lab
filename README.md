@@ -112,11 +112,11 @@ TEST!
 
  <a href="SPLAT/splat.md"><img src="images/splat-miniX.png" width = 45%></a>
  <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 45%></a>
- <br>
+
   
  <a href="BOKASHI/bokashi.md"><img src="images/bokashi-miniX.png" width = 45%></a>
  <a href="UVC/uvc.md"><img src="images/bleaching-miniX.png" width = 45%></a>
- <br>
+
   
   <a href="GG/gg.md"><img src="images/spl-gg-miniX.png" width = 45%><a>
  <a href="MFC/mfc.md"><img src="images/spl-mfc-miniX.png" width = 45%></a>

@@ -29,9 +29,12 @@ official git / repo
 <br />
 
 <hr>
- <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 90%>
+ 
  
 <table width=90%>
+<tr>
+<td align="center" colspan=2>
+<img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 95%>
 <tr>
 <td width=45% align="center">
 <img src="images/splat-anim-1.gif" width = 90%>

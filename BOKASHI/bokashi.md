@@ -4,7 +4,7 @@
 <p align="left" >[ <a href="../README.md#readme-top"> back</a> ]</p>
 
 
-<table width = 60%>
+<table width = 20%>
 <tr>
 <td align = "center" width = 90% colspan=2>
 <img src="bokashi-bin.jpg" width = 100%>

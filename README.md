@@ -31,14 +31,14 @@ official git / repo
 <hr>
  <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 90%>
  
-
-<img src="images/splat-anim-1.gif" width = 35%>
-<img src="images/spl-mppt-animrot.gif" width = 35%>
-<br>
- <a href="BOKASHI/bokashi.md"><img src="images/bokashi-miniX.png" width = 45%></a>
- <a href="UVC/uvc.md"><img src="images/bleaching-miniX.png" width = 45%></a>
- <br>
-
+<table width=90%>
+<tr>
+<td width=45% align="center">
+<img src="images/splat-anim-1.gif" width = 90%>
+<td width=45% align="center">
+<img src="images/spl-mppt-animrot.gif" width = 90%>
+</tr>
+</table>
 
 
 

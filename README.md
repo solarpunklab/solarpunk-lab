@@ -31,16 +31,14 @@ official git / repo
 <hr>
  <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 90%>
  
- <br />
- 
- <table width = 90%  BORDERCOLOR=black>
+<!------- TR -------->
 <tr>
 <td align = "center" width = 50% >
-<img src="images/splat-anim-1.gif" width = 100%>
+<img src="images/splat-anim-1.gif" width = 45%>
 <td align = "center" width = 50% >
-<img src="images/spb.png"  width = 100% align="top">
+<img src="images/spl-mppt-animrot.gif"  width = 45% align="bottom">
 </tr>
-</table>
+
 <br>
 
 <hr>
@@ -62,16 +60,19 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL PHILOSOPHY OF SOLARP
 <p align="justify" id="actions">
 <br>
 
-<table width = 90% >
+<table>
 <tr>
-<td align = "center">
+<td align = "center" width = 50% >
 <a href="SDL/sdl.md">
-<img src="images/SDL-BKK.png" width = 100%>
+<img src="images/SDL-BKK.png" width = 99%>
 <br> Solarpunk Design Lab </a>
-<td align = "center">
+</td>
+<td align = "center" width = 50% >
 <a href="TES/tes.md">
-<img src="images/spl-energyshow.png" width = 100%>
+<img src="images/spl-energyshow.png" width = 99%>
 <br> SPL @ "The Energy Show" </a>
+</td>
+
 
 <!--
 <tr>
@@ -80,18 +81,21 @@ TEST!
 -->
 
 <tr>
-<td align = "center">
+<td align = "center" width = 50% >
 <a href="HNI/hni.md">
-<img src="images/spl-rotterdam.png" width = 100%>
+<img src="images/spl-rotterdam.png" width = 99%>
 <br> SolarPunkBots / HNI </a>
-<td align = "center">
+</td>
+<td align = "center" width = 50% >
 <a href="WU/wu.md">
-<img src="images/spl-warmingup.png" width = 100%>
+<img src="images/spl-warmingup.png" width = 99%>
 <br> SPL @ "Warming Up" </a>
-
+</td>
 
 </tr>
+
 </table>
+
 
 
 
@@ -107,70 +111,32 @@ TEST!
 <br>
 
 
+ <a href="SPLAT/splat.md"><img src="images/splat-miniX.png" width = 45%></a>
 
-<table width = 90% >
-<! ------- TR -------->
-<tr>
-<td align = "center" width = 50% >
-<a href="SPLAT/splat.md"><img src="images/splat-mini.png" width = 100%>
-<br>Solarpunk Lab Aeroponics Tower </a>
-<td align = "center" width = 50% >
-<a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 100%>
-<br>SolarPunkBots</A>
-</tr>
-<! ------- TR -------->
-<tr>
-<td align = "center" width = 50% >
-<a href="BOKASHI/bokashi.md">
-<img src="images/bokashi-mini.png" width = 100%>
-DIY BOKASHI - Home composting </a>
-<td align = "center" width = 50% >
-<a href="UVC/uvc.md">
-<img src="images/bleaching-mini.png"  width = 100%>
-Solar (UV-C) Bleaching</a>
-</tr>
-<! ------- TR -------->
-<tr>
-<td align = "center" width = 50% >
-<a href="MPPT/mppt.md">
-<img src="images/spl-mppt-mini.png" width = 100%>
-MPPT monitoring </a>
-<td align = "center" width = 50% >
-<a href="MFC/mfc.md">
-<img src="images/spl-mfc-mini.png"  width = 100%>
-Microbial Fuel Cell / Bioreactor</a>
-</tr>
-<! ------- TR -------->
-<tr>
-<td align = "center" width = 50% >
-<a href="GG/gg.md">
-<img src="images/spl-gg-mini.png" width = 100%>
-SPL Guerrilla Gardening </a>
-<td align = "center" width = 50% >
+ <a href="docu/SOLARPUNKBOTS.pdf"><img src="images/solarpunkbots-mini.png" width = 45%></a>
+ 
+ <br>
+ 
+ <a href="BOKASHI/bokashi.md"><img src="images/bokashi-miniX.png" width = 45%></a>
+ <a href="UVC/uvc.md"><img src="images/bleaching-miniX.png" width = 45%></a>
+ 
+ <br>
+  <a href="GG/gg.md"><img src="images/spl-gg-miniX.png" width = 45%><a>
 
-<img src="images/emptysun.png"  width = 100%>
-- - -
-</tr>
+ <a href="MFC/mfc.md"><img src="images/spl-mfc-miniX.png" width = 45%></a>
+ <br>
+ 
+ <a href="MPPT/mppt.md"><img src="images/spl-mppt-miniX.png" width = 45%></a>
+ <img src="images/emptysun.png" width = 45%> 
+ <br>
 
-
-
-</table>
-<br>
-
-
-
-
-
-<br>
-
-<!-- <img src="images/transp.png" width = 10%>
--->
-
-<img src="images/smgif.gif" width = 100%>
+<hr>
+<img src="images/smgif.gif" width = 90%>
+<hr>
 
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
 
-<hr>
+
 
 
 ## 3D STL MODELS

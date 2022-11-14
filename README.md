@@ -34,6 +34,10 @@ official git / repo
 
 <img src="images/splat-anim-1.gif" width = 35%>
 <img src="images/spl-mppt-animrot.gif" width = 35%>
+<br>
+ <a href="BOKASHI/bokashi.md"><img src="images/bokashi-miniX.png" width = 45%></a>
+ <a href="UVC/uvc.md"><img src="images/bleaching-miniX.png" width = 45%></a>
+ <br>
 
 
 

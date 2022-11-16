@@ -18,7 +18,6 @@ In traditional composting processes, organic matter rots to release emissions an
 Through Bokashi fermentation, the energy within food waste is retained resulting in a sweet smelling, nutrient dense and microbially rich soil improver that works wonders in the garden and is kind to the environment.
 <br><br>
 
-
 The presence of effective microorganisms (EM) within the compost can help to suppress harmful bacteria, fungi and viruses present in soils, as well as adding nutrients such as vitamins and organic acids into the ground which are readily available for plants to take up and help to encourage healthy plant growth.
 <br><br>
 By using Bokashi, we can help to reduce the amount of food waste being sent to landfill, and the negative impact of this, from the comfort of our own homes simply by producing a nutrient rich compost using our food waste. 
@@ -46,6 +45,7 @@ Literally ANY kind of home produced organic food waste can be added to the mix i
 <br><br>
 E.M. (Effective Microorganisms) should be added to the organic compost so to prevent harmful molds and bacteria to spread over the compost and release a nasty smell.
 EMs can be bought at organic farming shops at fair prices or (better) easily produced at home through rice fermentation process. We'll document this process soon too, meanwhile you can check <a href="https://www.hawaiihealingtree.org/how-to-make-your-own-em-1-inoculant-and-bokashi/" target="new">this tutorial for DIY'ing EM</a>.
+<br><br>
 
 <!------- TR -------->
 <tr>

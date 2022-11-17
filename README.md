@@ -61,12 +61,12 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL SIDE OF SOLARPUNK PH
 <table>
 <tr>
 <td align = "center" width = 50% >
-<a href="SDL/sdl.md">
+<a href="SDL/SDL.md">
 <img src="images/SDL-BKK.png" width = 99%>
 <br> Solarpunk Design Lab </a>
 </td>
 <td align = "center" width = 50% >
-<a href="TES/tes.md">
+<a href="TES/TES.md">
 <img src="images/spl-energyshow.png" width = 99%>
 <br> SPL @ "The Energy Show" </a>
 </td>

@@ -66,7 +66,7 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL SIDE OF SOLARPUNK PH
 <br> Solarpunk Design Lab </a>
 </td>
 <td align = "center" width = 50% >
-<a href="TES/TES.md">
+<a href="TES/tes.md">
 <img src="images/spl-energyshow.png" width = 99%>
 <br> SPL @ "The Energy Show" </a>
 </td>

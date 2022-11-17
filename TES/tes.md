@@ -8,11 +8,23 @@
 <tr>
 <td align = "justify" width = 90% colspan=2>
 Solarpunk Lab contributed to the exhibition "The Energy Show" with some solar-powered and repurposed art*facts produced by TeZ in 2022. 
- 
+ </tr>
 <br><br>
+<tr>
+<td align = "justify" width = 50% colspan=1>
+<img src="TeZ-Chirpbot-anim.gif" width = 100%>
+<td align = "justify" width = 50% colspan=1 >
 <img src="SPL-TES-01.jpg" width = 100%>
 <img src="SPL-TES-02.jpg" width = 100%>
+ </tr>
+
+<tr>
+<td align = "justify" width = 90% colspan=2>
+
+
+
 <img src="SPL-TES-03.jpg" width = 100%>
+
 <img src="TeZ-TES-01.png" width = 100%>
 <img src="TeZ-TES-02.png" width = 100%>
 <img src="TeZ-TES-03.png" width = 100%>

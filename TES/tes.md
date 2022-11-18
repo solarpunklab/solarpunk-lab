@@ -12,7 +12,7 @@ Solarpunk Lab contributed to the exhibition "The Energy Show" with some solar-po
 <br><br>
 <tr>
 <td align = "justify" width = 50% colspan=1>
-<img src="TeZ-Chirpbot-anim.gif" width = 100%>
+<img src="TeZ-Chirpbot-anim.gif" width=100%>
 <td align = "justify" width = 50% colspan=1 >
 <img src="SPL-TES-01.jpg" width = 100%>
 <img src="SPL-TES-02.jpg" width = 100%>
@@ -34,7 +34,6 @@ Solarpunk Lab contributed to the exhibition "The Energy Show" with some solar-po
 
 <tr>
 <td align = "left" width = 90% colspan=2>
-<br>
 <img src="tes.jpg" width = 100%>
 
 How much energy do we have and need today? This question opens The Energy Show – Sun, Solar and Human Power, an exhibition that can be seen from 3 September 2022 through 5 March 2023 at Het Nieuwe Instituut in Rotterdam. The exhibition, put together by curator and designer Matylda Krzykowski and in collaboration with The Solar Biennale, revolves around the sun and its design possibilities. It reflects on visitors’ personal energy levels, features dozens of examples of innovative solar technology, and poses the key question: what would the world look like if it ran on solar energy? 
@@ -45,9 +44,6 @@ How much energy do we have and need today? This question opens The Energy Show �
 
 </tr>
 </table>
-
-
-
 
 <!-------  BACK   --------->
 <p align="left" >[ <a href="../README.md#readme-top"> back</a> ]</p>

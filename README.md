@@ -82,7 +82,7 @@ TEST!
 <td align = "center" width = 45% >
 <a href="HNI/hni.md">
 <img src="images/spl-rotterdam.png" width = 90%>
-<br> SolarPunkBots / HNI </a>
+<br> Solar Monsters @ HNI </a>
 </td>
 <td align = "center" width = 45% >
 <a href="WU/wu.md">

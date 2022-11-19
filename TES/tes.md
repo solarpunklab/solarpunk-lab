@@ -22,7 +22,7 @@ Solarpunk Lab contributed to the exhibition "The Energy Show" with some solar-po
 <td align = "justify" width = 90% colspan=2>
 
 
-
+<img src="TeZ-TES-06.png" width = 100%>
 <img src="SPL-TES-03.jpg" width = 100%>
 
 <img src="TeZ-TES-01.png" width = 100%>

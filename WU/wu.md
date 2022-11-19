@@ -27,6 +27,8 @@ The first public showcase of Solarpunk Lab was presented at <a href="https://wea
 <br>
 <img src="spl-wu-splat.jpg" width = 100%>
 <br>
+<img src="spl-wu-tez.jpg" width = 100%>
+<br>
 <img src="spl-wu-uvc.jpg" width = 100%>
 <br>
 <img src="spl-wu-lamp.jpg" width = 100%>

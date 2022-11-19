@@ -24,7 +24,7 @@ SPLAT adopts a technique for molding standard 125mm diameter PVC pipes, ordinari
 
 <tr>
 <td align = "justify" colspan=2>
-Our take on this project was to try and create a circular system that would use solar energy for powering the water pump, and home-made compost (bokashi) for the necessary nutrients to add to the water that is being sprinkled onto the plants' roots.
+Our take on this project was to try and create a circular system that would use solar energy for powering the water pump, and home-made compost (<a href="../BOKASHI/bokashi.md" target="new">bokashi</a>) for the necessary nutrients to add to the water that is being sprinkled onto the plants' roots.
 <br><br>
 This system could work outdoor with natural sunlight or indoor with specific lighting that would support the necessary photosynthesis. These lights will also be powered by an off-grid rechargable solar power unit, comprising of a LIPO battery, a solar panel and a MPPT charge controller, monitored with a custom wireless diy device. 
 <br><br>

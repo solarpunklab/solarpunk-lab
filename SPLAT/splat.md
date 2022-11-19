@@ -79,7 +79,7 @@ We've used Dremmel and drilling tools to cut holes where some of the 3D-printed 
 
 <tr>
 <td align = "center" colspan=2> 
-<img src="splat-sprinkler-3D-anim.gif" >
+<img src="splat-sprinkler-3D-anim.gif" width=100% >
 </tr>
 
 <tr>

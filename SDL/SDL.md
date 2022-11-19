@@ -12,7 +12,7 @@
 <br>
 <img src="sdl-strip-01.jpg" width = 100%>
 
-Online course, held by tez at commde (department of industrial design, faculty of architecture, chulalongkorn university of bangkok) from may 23rd to 26th, 2022.
+Online course, held by tez at CommDe (Communication/Design department of industrial design, faculty of architecture, chulalongkorn university of bangkok) from may 23rd to 26th, 2022.
 This 4-days online workshop was aimed at examining the roots and the current status of the solarpunk movement, the manifold of components that forms its fluid container of ideas and practices, and a set of hands-on actions to help embrace an eco-activist and anti-doomerism future.<br><br>
 <img src="sdl-strip-02.jpg" width = 100%>
 <br><br>

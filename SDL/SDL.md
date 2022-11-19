@@ -12,23 +12,20 @@
 <br>
 <img src="sdl-strip-01.jpg" width = 100%>
 
-ONLINE COURSE, HELD BY TEZ AT COMMDE (DEPARTMENT OF INDUSTRIAL DESIGN, FACULTY OF ARCHITECTURE, CHULALONGKORN UNIVERSITY OF BANGKOK) FROM MAY 23RD TO 26TH, 2022.
-
-
-THIS 4-DAYS ONLINE WORKSHOP WAS AIMED AT EXAMINING THE ROOTS AND THE CURRENT STATUS OF THE SOLARPUNK MOVEMENT, THE MANIFOLD OF COMPONENTS THAT FORMS ITS FLUID CONTAINER OF IDEAS AND PRACTICES, AND A SET OF HANDS-ON ACTIONS TO HELP EMBRACE AN ECO-ACTIVIST AND ANTI-DOOMERISM FUTURE.<br><br>
+Online course, held by tez at commde (department of industrial design, faculty of architecture, chulalongkorn university of bangkok) from may 23rd to 26th, 2022.
+This 4-days online workshop was aimed at examining the roots and the current status of the solarpunk movement, the manifold of components that forms its fluid container of ideas and practices, and a set of hands-on actions to help embrace an eco-activist and anti-doomerism future.<br><br>
 <img src="sdl-strip-02.jpg" width = 100%>
 <br><br>
 <tr>
 <td align = "justify" width = 90% colspan=2>
 
-
-THE WORKSHOP COVERED A VAST VARIETY OF INTERCONNECTED TOPICS, RANGING FROM DOOMERISM CULTURE, *PUNK LITERATURE, ECO-REBELLION, NO-MANIFESTO, ECOTOPIA, BUCKMINSTER FULLER, SOLARPUNK AESTHETICS, SOLARPUNK BLOGGING, RENEWABLE ENERGY MYTHS AND FACTS, TO GUERRILLA GARDENING, PERMACULTURE, TERRACOTTA AND BAMBOO COOLING, ECO-PASSIVE ARCHITECTURE, EARTHSHIPS, OFF-GRID LIVING, SOLAR COOKING, SOLAR PRINTING, SOLAR MARKETING, GREENWASHING, FERMENTATION, BIOREACTORS, VERTICAL FARMING, SCUTTLEBUTT NETWORK, SOLARTRONICS, REC/REP (RECYCLE, REPAIR, REPURPOSE) AND LUNARPUNK.
+The workshop covered a vast variety of interconnected topics, ranging from doomerism culture, *punk literature, eco-rebellion, no-manifesto, ecotopia, buckminster fuller, solarpunk aesthetics, solarpunk blogging, renewable energy myths and facts, to guerrilla gardening, permaculture, terracotta and bamboo cooling, eco-passive architecture, earthships, off-grid living, solar cooking, solar printing, solar marketing, greenwashing, fermentation, bioreactors, vertical farming, scuttlebutt network, solartronics, rec/rep (recycle, repair, repurpose) and lunarpunk.
 <br><br>
 <img src="sdl-strip-03.jpg" width = 100%>
 <tr>
 <td align = "justify" width = 90% colspan=2>
 
-FOUR (ANALOG) PRACTICAL ASSIGNMENTS WERE GIVEN FOR THIS COURSE:
+Four (analog) practical assignments were given for this course:
 
 <ol>
 <li> RE_GROW YOUR VEGGIE GROCERY

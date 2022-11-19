@@ -6,7 +6,7 @@
 <div align="left">
 official git / repo
 <br />
-<img src="images/solarFern.png" alt="Logo" width = 50%>
+<img src="images/solarFern.png" alt="Logo" width = 25%>
 <br />
 
 </div>
@@ -22,6 +22,7 @@ official git / repo
     <li><a href="#actions">Events / Actions</a></li>
     <li><a href="#diy">DIY projects and experiments</a> </li>
 	 <li><a href="#3D">3D STL models</a> </li>
+	 <li><a href="code/">Code</a> </li>
   </ul>
 </details>
 
@@ -129,7 +130,6 @@ TEST!
 <hr>
 
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
-
 
 
 

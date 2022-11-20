@@ -13,7 +13,7 @@ UVC light is a radiation method that makes use of a specific wavelength of ultra
 <br><br>
 We have become more familiar with this technology during COVID-19 pandemics for the massive adoption of disinfection devices using UV-C to neautralize the virus.  
 <br>
-One "fortunate" effect of this light radiation on natural fibers after a longer period of exposure is that of "bleaching". That is the discoloration of fabric (or other organic fibers) in the areas that are directly exposed to the UV-C wavelength.
+One "fortunate" effect of this light radiation on natural fibers after a longer period of exposure is that of "bleaching". That is the discoloration of fabric (or other organic fibers) in the areas that are directly exposed to the UV-C wavelength. This way it's possible to use stencils and "print with light".
 <br><br>
 <img src="uvc-tshirt-01.png" width = 100%>
 <br><br>
@@ -30,9 +30,7 @@ One "fortunate" effect of this light radiation on natural fibers after a longer 
 
 <img src="danger.png" width = 100%>
 
-Direct exposure of skin and eyes to UVC radiation from most UVC lamps may cause painful eye injury and burn-like skin reactions. Never look directly at a UVC lamp source, even briefly. Use of glass 
-
-In addition, some UVC lamps generate ozone, which can irritate airways. 
+Direct exposure of skin and eyes to UVC radiation from most UVC lamps may cause painful eye injury and burn-like skin reactions. Never look directly at a UVC lamp source, even briefly. In addition, some UVC lamps generate ozone, which can irritate airways. 
 
 <img src="uvc-glasses.png" width = 100%>
 <br><br>

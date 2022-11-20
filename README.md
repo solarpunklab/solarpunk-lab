@@ -54,6 +54,9 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL SIDE OF SOLARPUNK PH
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
 
 <hr>
+<img src="images/spl-family.png" width = 45%>
+<img src="images/spl-matrix.png" width = 45%>
+<hr>
 
 ## SPL EVENTS / ACTIONS
 <p align="justify" id="actions">

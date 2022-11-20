@@ -13,7 +13,7 @@ UVC light is a radiation method that makes use of a specific wavelength of ultra
 <br><br>
 We have become more familiar with this technology during COVID-19 pandemics for the massive adoption of disinfection devices using UV-C to neautralize the virus.  
 <br>
-One accidental effect of this light radiation on natural fibers after a longer period of exposure is that of "bleaching". That is the discoloration of fabric (or other organic fibers) in the areas that are directly exposed to the UV-C wavelength. This way it's possible to use stencils and "print with light".
+One accidental effect of this light radiation on natural fibers after a longer period of exposure is that of "bleaching". That is the discoloration of natural fabric (or other organic fibers) in the areas that are directly exposed to the UV-C wavelength. This way it's possible to use stencils and "print with light".
 <br><br>
 <img src="uvc-tshirt-01.png" width = 100%>
 <br><br>

@@ -34,11 +34,6 @@ official git / repo
 <tr>
 <td align="center" colspan=2>
 <img src="images/SPL-BANNER-GIF.gif" alt="Logo" width = 99%>
-<tr>
-<td width=50% align="center">
-<img src="images/splat-anim-1.gif" width = 99%>
-<td width=50% align="center">
-<img src="images/spl-mppt-animrot.gif" width = 99%>
 </tr>
 </table>
 
@@ -61,6 +56,13 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL SIDE OF SOLARPUNK PH
 <td width=50% align="center">
 <img src="images/spl-matrix.png" width = 99%>
 </tr>
+<tr>
+<td width=50% align="center">
+<img src="images/splat-anim-1.gif" width = 99%>
+<td width=50% align="center">
+<img src="images/spl-mppt-animrot.gif" width = 99%>
+</tr>
+
 </table>
 
 <!-------  BACK   --------->

@@ -68,10 +68,6 @@ The build of a UV-C box for disinfection and/or light bleaching is fairly simple
 <br><br>
 
 
-
-
-
-
 </tr>
 
 </table>

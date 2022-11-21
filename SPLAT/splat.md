@@ -96,7 +96,20 @@ All STL files of our 3D models are available <a href="../3D/SPLAT-AEROPONIC-TOWE
 
 <tr>
 <td align = "justify" colspan=2> 
-Finally, the water with nutrients is pumped up to from the bottom of the box the top of the tower with a usb-powered 5v pump, timed with an ESP32 controller to regulate the sprinkling at custom intervals.
+Finally, the water with nutrients is pumped up to from the bottom of the box the top of the tower with a usb-powered 5v pump, timed with an ESP32 controller to regulate the sprinkling at custom intervals. <br><br>
+</tr>
+
+<tr>
+
+<td align = "justify" colspan=2>
+
+A set of custom LED fixtures were also created repurposing plexiglass stripes from the trash and led stripes with specific wavelength for photosynthesis.
+<br><br>
+<img src="splat-phytolights-02.png"  width=100%>
+<br>
+<img src="splat-phytolights-01.png"  width=100%>
+
+
 </tr>
 
 </table>

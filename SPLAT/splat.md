@@ -108,9 +108,47 @@ A set of custom LED fixtures were also created repurposing plexiglass stripes fr
 <img src="splat-phytolights-02.png"  width=100%>
 <br>
 <img src="splat-phytolights-01.png"  width=100%>
-
-
 </tr>
+
+
+<tr>
+<td align = "justify" width = 50%>
+<img src="splat-white-01.jpg"  width=100%>
+<td align = "justify" width =50%> 
+<img src="splat-white-02.jpg"  width=100%><br>
+</tr>
+
+<tr>
+<td align = "justify" width = 50%>
+<img src="splat-white-03.jpg"  width=100%>
+<td align = "center" width =50%> 
+<img src="splat-white-dremmel.gif"  width=75% ><br>
+</tr>
+
+<tr>
+<td align = "justify" width = 50%>
+<img src="splat-white-05.jpg"  width=100%>
+<td align = "justify" width =50%> 
+<img src="splat-white-06.jpg"  width=100%><br>
+</tr>
+
+<tr>
+<td align = "justify" width = 50%>
+<img src="splat-white-07.jpg"  width=100%>
+<td align = "justify" width =50%> 
+<img src="splat-white-09.jpg"  width=100%><br>
+</tr>
+
+
+<tr>
+<td align = "justify" width = 50%>
+<img src="splat-white-11.jpg"  width=100%>
+<td align = "justify" width =50%> 
+<img src="splat-white-08.jpg"  width=100%><br>
+</tr>
+
+
+
 
 </table>
  

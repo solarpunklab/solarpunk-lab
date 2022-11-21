@@ -23,6 +23,8 @@ official git / repo
     <li><a href="#diy">DIY projects and experiments</a> </li>
 	 <li><a href="#3D">3D STL models</a> </li>
 	 <li><a href="code/">Code</a> </li>
+	 <li><a href="contact/">Contact</a> </li>
+	 
   </ul>
 </details>
 
@@ -144,9 +146,6 @@ TEST!
 <img src="images/smgif.gif" width = 90%>
 <hr>
 
-<p align="left" >[ <a href="#readme-top"> back</a> ]</p>
-
-
 
 ## 3D STL MODELS
 <p align="justify" id="3D">
@@ -156,7 +155,16 @@ TEST!
 <li> SPLAT parts</li>
 
 </ul>
+</p>
 
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
+
+<hr>
+
+## CONTACT
+<p align="justify" id="contact">
+<a href="mailto:tez@solarpunklab.org">tez@solarpunklab.org</a>
+
+
 
 <hr>

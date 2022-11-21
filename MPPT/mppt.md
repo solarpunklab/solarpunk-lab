@@ -17,7 +17,7 @@ This is a useful exercise to become more familiar with technologies related to P
 <br><br>
 <img src="spl-mppt-system-02.png" width = 100%>
 <br><br>
-Integration with open source home (and IoT) automation solutions, such as Home Assistant and OpenHab, are also in the scope of these experiments.
+Integration with open source home (and IoT) automation solutions, such as Home Assistant and OpenHab, are also in the scope of these experiments. Once the ESP32 is connected and gets real-time data from the MPPT controller, it can feed a channel on a MQTT server running in Home asiistant so that any other device connected to the same server (locally or via internet) can subscribe to that channel and operate according to the broadcasted data.
 <br><br>
 
 <img src="spl-mppt-animrot.gif" width = 100%>

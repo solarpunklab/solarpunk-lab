@@ -8,12 +8,12 @@
 <tr>
 <td align = "justify" width = 90% colspan=2>
 
-This is an ongoing experiment to develop a device that can display and broadcast over WiFi and Bluetooth a number of parameters monitored by the MPPT controller in a more or less standard Solar Power Unit (SPU). 
+This is an ongoing experiment to develop a device that can display and broadcast a number of parameters monitored by the MPPT controller in a Solar Power Unit (SPU) over WiFi and Bluetooth . 
 <br><br>
 <img src="spl-mppt-system-01.png" width = 100%>
 <br><br>
 
-This is a useful exercise to become more familiar with technologies related to PV (Photovoltaic) and battery storage. The ultimate goal is to optimize the use the power stored in the battery and managed by the SPU through an intelligent monitoring and distribution of energy in off-grid medium/small living habitats as well as a van or other mobile units.
+This is a useful exercise to become more familiar with technologies related to PV (Photovoltaic) and battery storage. The ultimate goal is to optimize the use of the power stored in the battery and managed by the SPU through an intelligent monitoring and distribution of energy in off-grid medium/small living habitats as well as a van or other mobile units.
 <br><br>
 <img src="spl-mppt-system-02.png" width = 100%>
 <br><br>

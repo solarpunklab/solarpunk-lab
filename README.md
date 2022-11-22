@@ -163,7 +163,9 @@ TEST!
 
 ## CONTACT
 <p align="justify" id="contact">
-<a href="mailto:tez@solarpunklab.org">tez@solarpunklab.org</a>
+<a href="mailto:tez@solarpunklab.org">tez@solarpunklab.org
+<br><br>
+<img src="images/spl-convento.png" width = 90%></a>
 
 
 

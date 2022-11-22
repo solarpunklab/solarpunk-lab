@@ -68,6 +68,8 @@ The build of a UV-C box for disinfection and/or light bleaching is fairly simple
 <br><br>
 <img src="uvc-purple-tshirt.png" width = 100%>
 <br><br>
+<img src="uvc-black-tshirt.png" width = 100%>
+<br><br>
 
 
 </tr>

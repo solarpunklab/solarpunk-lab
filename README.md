@@ -15,8 +15,8 @@ official git / repo
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>CONTENTS</summary>
+<details open>
+  <summary style="background-color: #030;">CONTENTS</summary>
   <ul>
     <li><a href="#about">About Solarpunk Lab</a></li>
     <li><a href="#actions">Events / Actions</a>

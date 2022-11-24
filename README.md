@@ -29,7 +29,7 @@ official git / repo
     </ul>
     </li>      
     <li><a href="#diy">DIY projects and experiments</a>
-    <ol>
+    <ul>
     <li><a href="SPLAT/splat.md">SPLAT Ecosystem</a></li>
     <li><a href="docu/SOLARPUNKBOTS.pdf" target="new">SOLARPUNKBOTS</a></li>
     <li><a href="BOKASHI/bokashi.md">Solar Monsters / HNI</a></li>
@@ -37,7 +37,7 @@ official git / repo
     <li><a href="GG/gg.md">SPL GUERRILLA GARDENING</a></li>    
     <li><a href="MFC/mfc.md">MFC BIOREACTOR</a></li> 
     <li><a href="MPPT/mppt.md">MPPT MONITORING</a></li> 
-    </ol>
+    </ul>
     </li>
 	 <li><a href="#3D">3D STL models</a> </li>
 	 <li><a href="code/">Code</a> </li>

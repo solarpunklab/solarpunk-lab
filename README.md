@@ -23,7 +23,7 @@ official git / repo
     <li><a href="#diy">DIY projects and experiments</a> </li>
 	 <li><a href="#3D">3D STL models</a> </li>
 	 <li><a href="code/">Code</a> </li>
-	 <li><a href="contact/">Contact</a> </li>
+	 <li><a href="#contact/">Contact</a> </li>
 	 
   </ul>
 </details>

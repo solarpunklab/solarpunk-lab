@@ -10,7 +10,7 @@
 <td align = "justify" width = 90% colspan=2>
 A microbial fuel cell, or <a href="https://www.youtube.com/watch?v=q_TVddg1NFs" target="new">MFC</a>, is a fuel cell in which the naturally occurring electrochemical processes of anaerobic bacteria breaking down food, are harnessed to generate electricity.
 <br><br>
-We are attempting to build a acombined autonomous system that can host a MFC and a Bioreactor with a set of test tube shakers, holding microorganisms at ideal conditions of temperature, humidity and luminosity.
+We are attempting to build a combined autonomous system that can host a MFC and a Bioreactor with a set of test tube shakers, holding microorganisms at ideal conditions of temperature, humidity and luminosity.
 <br><br>
 This is very much an "in-progress" project and aimed more at a "demo" and testing bench, inspiring future builds other than being a truly effective system itself.
 <br><br>

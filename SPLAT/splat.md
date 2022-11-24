@@ -83,6 +83,14 @@ We've used Dremmel and drilling tools to cut holes where some of the 3D-printed 
 </tr>
 
 <tr>
+<td align = "justify" width = 50%>
+<img src="splat-3d-04.jpg"  width=100%>
+<td align = "justify" width =50%> 
+<img src="splat-tubeholder.jpg"  width=100%><br>
+</tr>
+
+
+<tr>
 <td align = "center" colspan=2> 
 All STL files of our 3D models are available <a href="../3D/SPLAT-AEROPONIC-TOWER">here</a>. 
 </tr>
@@ -129,7 +137,7 @@ A set of custom LED fixtures were also created repurposing plexiglass stripes fr
 <td align = "justify" width = 50%>
 <img src="splat-white-05.jpg"  width=100%>
 <td align = "justify" width =50%> 
-<img src="splat-white-06.jpg"  width=100%><br>
+<img src="splat-white-glueing.jpg"  width=100%><br>
 </tr>
 
 <tr>

@@ -19,8 +19,26 @@ official git / repo
   <summary>CONTENTS</summary>
   <ul>
     <li><a href="#about">About Solarpunk Lab</a></li>
-    <li><a href="#actions">Events / Actions</a></li>
-    <li><a href="#diy">DIY projects and experiments</a> </li>
+    <li><a href="#actions">Events / Actions</a>
+    <ul>
+    	<li><a href="TES/tes.md">SPL @ "The Energy Show"</a></li>
+    	<li><a href="SDL/SDL.md">Solarpunk Design Lab / BKK</a></li>
+    	<li><a href="HNI/hni.md">Solar Monsters / HNI</a></li>
+    	<li><a href="WU/wu.md">SPL @ "Warming Up"</a></li>
+  	 	<li><a href="HNI/hni.md">Solar Monsters / HNI</a></li>
+    </ul>
+    </li>      
+    <li><a href="#diy">DIY projects and experiments</a>
+    <ol>
+    <li><a href="SPLAT/splat.md">SPLAT Ecosystem</a></li>
+    <li><a href="docu/SOLARPUNKBOTS.pdf" target="new">SOLARPUNKBOTS</a></li>
+    <li><a href="BOKASHI/bokashi.md">Solar Monsters / HNI</a></li>
+    <li><a href="UVC/uvc.md">UV-C LIGHT BLEACHING</a></li>
+    <li><a href="GG/gg.md">SPL GUERRILLA GARDENING</a></li>    
+    <li><a href="MFC/mfc.md">MFC BIOREACTOR</a></li> 
+    <li><a href="MPPT/mppt.md">MPPT MONITORING</a></li> 
+    </ol>
+    </li>
 	 <li><a href="#3D">3D STL models</a> </li>
 	 <li><a href="code/">Code</a> </li>
 	 <li><a href="#contact/">Contact</a> </li>

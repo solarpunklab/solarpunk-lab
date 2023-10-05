@@ -25,6 +25,7 @@ official git / repo
     	<li><a href="SDL/SDL.md">Solarpunk Design Lab / BKK</a></li>
     	<li><a href="HNI/hni.md">Solar Monsters / HNI</a></li>
     	<li><a href="WU/wu.md">SPL @ "Warming Up"</a></li>
+    	<li><a href="SPLAT/splatg.md">SPLAT @ A Gráfica / Setúbal</a></li>
     </ul>
     </li>      
     <li><a href="#diy">DIY projects and experiments</a>

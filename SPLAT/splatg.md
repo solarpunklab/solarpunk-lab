@@ -98,7 +98,7 @@ During the second week TeZ kept working on the preparations, particularly for th
 <td align = "justify" width =100%> 
 The installation is on permament display at A Gráfica and you can visit it <A href="https://maps.app.goo.gl/h3H1VibhitQ3pkAq6" target = "new">here</a>.
 <br><br>
-A special thanks to CMS Setúbal, Monica Duarte, Raquel de Oliveira Correia, Vania Pereira, Nuno Torres, Guilherme Martins, Mauricio Martins, Tiago Rorke, Paulinho, André Pereira, Cristina Bartoloni and all the participants to the workshop.  
+A special thanks to CMS Setúbal, Mónica Duarte, Raquel Correia, Vânia Pereira, Nuno Torres, Guilherme Martins, Mauricio Martins, Tiago Rorke, Paulinho, André Pereira, Cristina Bartoloni and all the participants to the workshop.  
 <br><br>
 </tr>
 

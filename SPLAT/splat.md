@@ -13,7 +13,7 @@ Aeroponics is the practice of growing plants in an air or mist environment witho
 SPLAT adopts a technique for molding standard 125mm diameter PVC pipes, ordinarily used for sewage infrastructure, to make it hold a large number of plants in a vertical gardening fashion. This technique was inspired and informed by various tutorial videos of DIY aeroponics towers such as <a href="https://www.youtube.com/watch?v=arNVaP5XNEg" target="new">this one</a>.
 <br><br>
 
-<tr>
+
 <tr>
 <td align = "justify" width = 50%>
 <img src="splat-sawing.jpg"  width=100%>

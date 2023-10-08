@@ -22,7 +22,7 @@ SPLAT (Solarpunk Lab Aeroponics Tower) is a specific implementation of Aeroponic
 
 <tr>
 <td align = "justify" width = 90% colspan=2>
-SETULAB ASSOCIAÇAO, via TeZ / Solrapunk Lab, was invited by A Gráfica / Centro de Criação Artística in Setúbal, Portugal, to conduct a residency and workshop about SPLAT during the alst week of August and the first week of September 2023. 
+SETULAB ASSOCIAÇAO, via TeZ / Solarpunk Lab, was invited by A Gráfica / Centro de Criação Artística in Setúbal, Portugal, to conduct a residency and workshop about SPLAT during the alst week of August and the first week of September 2023. 
 <br><br>
 <img src="splat-g-02.jpg"  width=100%>
 <br><br>

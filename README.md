@@ -108,11 +108,6 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL SIDE OF SOLARPUNK PH
 </td>
 
 
-<!--
-<tr>
-<td align = "center" colspan = 2>
-TEST!
--->
 
 <tr>
 <td align = "center" width = 45% >
@@ -125,6 +120,20 @@ TEST!
 <img src="images/spl-warmingup.png" width = 90%>
 <br> SPL @ "Warming Up" </a>
 </td>
+
+
+<tr>
+<td align = "center" width = 45% >
+<a href="SPLAT/splatg.md">
+<img src="images/spl-agrafica.png" width = 90%>
+<br> SPLAT @ A Gráfica</a>
+</td>
+<td align = "center" width = 45% >
+<a href="SPLEE/splee.md">
+<img src="images/spl-cada.png" width = 90%>
+<br> SPLEE workshop @ ANIMAIS </a>
+</td>
+
 
 </tr>
 

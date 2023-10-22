@@ -83,11 +83,16 @@ During the second week TeZ kept working on the preparations, particularly for th
 <img src="splat-g-21.jpg"  width=100%>
 <br><br>
 
-<img src="splat-g-22.jpg"  width=100%>
-<br><br>
+
 <img src="splat-g-23.jpg"  width=100%>
 <br><br>
+<img src="splat-g-tez-1.jpg"  width=100%>
+<br><br>
 <img src="splat-g-24.jpg"  width=100%>
+<br><br>
+<img src="splat-g-22.jpg"  width=100%>
+<br><br>
+<img src="splat-g-tez-2.jpg"  width=100%>
 <br><br>
 <img src="splat-g-25.jpg"  width=100%>
 <br><br>

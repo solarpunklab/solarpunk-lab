@@ -25,17 +25,15 @@ official git / repo
     	<li><a href="SDL/SDL.md">Solarpunk Design Lab / BKK</a></li>
     	<li><a href="HNI/hni.md">Solar Monsters / HNI</a></li>
     	<li><a href="WU/wu.md">SPL @ "Warming Up"</a></li>
-    	<li><a href="SPLAT/splatg.md">SPLAT @ A Gráfica / Setúbal</a><li>
-    	    	<li><a href="SPLEE/splee.md">SPLEE workshop @ ANIMAIS / Lisbon</a></li>
-    </ul>
-    </li>      
+    	<li><a href="SPLAT/splatg.md">SPLAT @ A Gráfica / Setúbal</a></lu>    	<li><a href="SPLEE/splee.md">SPLEE workshop @ ANIMAIS / Lisbon</a></li>  
+    </ul>  
     <li><a href="#diy">DIY projects and experiments</a>
     <ul>
     <li><a href="SPLAT/splat.md">SPLAT Ecosystem</a></li>
     <li><a href="docu/SOLARPUNKBOTS.pdf" target="new">SOLARPUNKBOTS</a></li>
     <li><a href="BOKASHI/bokashi.md">Solar Monsters / HNI</a></li>
     <li><a href="UVC/uvc.md">UV-C LIGHT BLEACHING</a></li>
-    <li><a href="GG/gg.md">SPL GUERRILLA GARDENING</a></li>    
+    <li><a href="GG/gg.md">SPL GUERRILLA GARDENING</a></li>
     <li><a href="MFC/mfc.md">MFC BIOREACTOR</a></li> 
     <li><a href="MPPT/mppt.md">MPPT MONITORING</a></li> 
     </ul>

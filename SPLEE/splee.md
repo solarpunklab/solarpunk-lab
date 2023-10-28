@@ -56,7 +56,7 @@ The goal is to create a small and affordable autonmous system capable to power a
 <img src="SPLEE-TeZ-03.jpg" width = 100%>
 
 <tr>
-<td align = "left" width = 90% colspan=2>
+<td align = "center" width = 90% colspan=2>
 
 
 At the end of the workshop, each participant brings home a complete little system, assembled on recycled cardboard, and usable for powering mobile phones, tablets or custom devices and circuits such as a simple weather station or other portable sensor/actuator assembly, rechargable via a solar cell/panel.
@@ -64,6 +64,11 @@ At the end of the workshop, each participant brings home a complete little syste
 <img src="SPLEE-ASSEMBLY.jpg" width = 100%>
 
 <br><br>
+
+<a href="https://t.ly/Oebz-"><img src="SPL-SLIDES.png" width = 100%> <br>TeZ / SPL + SPLEE SLIDES<br></a>
+
+<br><br>
+<hr>
 <a href="https://www.cada1.net/works/open-call-animais-residencia-artistica-novos-media/" target ="new">ANIMAIS</a>
 <br><br>
 

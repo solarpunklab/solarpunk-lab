@@ -31,8 +31,16 @@ Integration with open source home (and IoT) automation solutions, such as Home A
 <img src="spl-mppt-esp-ttl.jpg" width = 100%>
 <br>
 <img src="spl-mppt-finished.jpg" width = 100%>
+<br>
 <img src="spl-mppt-arduino.jpg" width = 100%>
-<br><br>
+<br>
+<hr>
+<p aling=left>
+ESP32 powered by EPEVER ethernet
+</p>
+<img src="epever-monitor-powered.png" width = 100%>
+<br>
+<br>
 
 </tr>
 

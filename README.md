@@ -137,6 +137,21 @@ SOLARPUNK LAB IS A PROJECT AIMED AT PROMOTING THE PRACTICAL SIDE OF SOLARPUNK PH
 
 </tr>
 
+
+<tr>
+<td align = "center" width = 45% >
+<a href="https://github.com/solarpunklab/osr">
+<img src="images/osr-git.png" width = 90%>
+<br> OPEN SENSOR RESEARCH</a>
+</td>
+<td align = "center" width = 45% >
+<img src="images/blackpattern.png" width = 90%>
+<br> ///</a>
+</td>
+
+
+</tr>
+
 </table>
 
 
